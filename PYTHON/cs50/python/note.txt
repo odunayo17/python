@@ -1,0 +1,90 @@
+To link your Freenom domain name to your GitHub Pages website, you'll need to follow these general steps:
+
+1. Set up your GitHub Pages website: First, make sure you have a GitHub repository containing your website files. Ensure that your repository is properly configured for hosting your website using GitHub Pages. You can refer to GitHub's documentation for more details on setting up GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages
+
+2. Obtain your GitHub Pages URL: Once your GitHub Pages website is set up, GitHub will assign a URL to your website. It typically follows the format `https://<username>.github.io/<repository-name>`, where `<username>` is your GitHub username, and `<repository-name>` is the name of your repository.
+
+3. Access your Freenom account: Log in to your Freenom account, or create a new account if you don't have one.
+
+4. Navigate to the DNS settings: Look for the DNS management or domain management section within your Freenom account. The exact location of this section may vary depending on Freenom's interface.
+
+5. Set up DNS records: Add DNS records to map your domain name to your GitHub Pages website. You need to create two records:
+
+   - A `CNAME` record: This record should point your domain name (e.g., `example.com` or `www.example.com`) to your GitHub Pages URL (e.g., `<username>.github.io`).
+   
+   - An `A` record (optional): If you want to set up the root domain (e.g., `example.com`) to point to your GitHub Pages website, you'll need to set up an `A` record with the IP address `185.199.108.153`, along with three additional IP addresses: `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`.
+
+6. Save the DNS settings: After adding the necessary DNS records, save the changes within your Freenom account.
+
+7. Wait for DNS propagation: Keep in mind that DNS changes may take some time to propagate across the internet. It can take up to 24-48 hours for the changes to take effect. During this period, your domain name may not be immediately accessible.
+
+Once the DNS changes have propagated, your Freenom domain name should be linked to your GitHub Pages website. You can access your website using your domain name (e.g., `example.com`) or the subdomain (e.g., `www.example.com`), depending on the DNS records you set up.
+
+Note: Make sure your GitHub repository and website are properly configured and functioning correctly before setting up the DNS records.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+
+
+
+
+
+
+
+
+
+
+
+

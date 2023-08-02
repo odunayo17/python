@@ -1,0 +1,6 @@
+list is a sequence of mutable values
+tuple is a sequence of immutable values
+set is a collection of unique values
+dictionary is a collection of key-value pairs
+
+a class is a template for a type of object

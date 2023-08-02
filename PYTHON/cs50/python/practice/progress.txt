@@ -1,0 +1,19 @@
+
+<====vs code====>
+mv is to move a file
+ls is to list a file
+cp is to copy a file
+clear is to clear
+rm is to remove a file
+mkdir is for making a fold 
+cd is to change dir
+rmdir is to remove a file
+.. is to go to the parent folder
+
+<====style====>
+pip install pylint
+pycodestyle
+pip install black
+
+
+<====debbuging====>T
